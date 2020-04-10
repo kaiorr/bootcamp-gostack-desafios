@@ -1,0 +1,28 @@
+{
+  "name": "bootcamp-gostack-desafios",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Kaio Ribeiro",
+    "email":"<kaio.rocharibeiro@gmail.com>",
+    "url": "https://github.com/kaiorr/bootcamp-gostack-desafios"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "^3.1.0",
+    "husky": "^4.2.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
