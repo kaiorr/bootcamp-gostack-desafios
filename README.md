@@ -18,7 +18,7 @@
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://raw.githubusercontent.com/kaiorr/bootcamp-gostack-desafios/master/LICENSE) para mais detalhes.
 
 ---
 
