@@ -3,13 +3,18 @@
   Desafios Bootcamp GoStack
 </h2>
 
-## Índice de desafios
 
-- [00 - Dúvidas frequentes sobre os desafios](https://github.com/rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios)
-- [01 - Planejando meus estudos](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-01)
-- [02 - Conceitos do Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
-- [03 - Conceitos do ReactJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
-- [04 - Conceitos do React Native](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)
+### :rocket: :computer: Design baseado no repositório dos desafios Gostack 11
+
+
+## Índice de desafios
+>
+> - **[00 - Dúvidas frequentes sobre os desafios](https://github.com/rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios)**
+> - **[01 - Planejando meus estudos](https://github.com/kaiorr/bootcamp-gostack-desafios/tree/master/desafio-01)**
+> - **[02 - Conceitos do Node.js](https://github.com/kaiorr/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)**
+> - **[03 - Conceitos do ReactJS](https://github.com/kaiorr/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)**
+> - **[04 - Conceitos do React Native](https://github.com/kaiorr/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)**
+>
 
 ## :memo: Licença
 
