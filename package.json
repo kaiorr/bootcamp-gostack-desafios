@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": {
     "name": "Kaio Ribeiro",
-    "email":"<kaio.rocharibeiro@gmail.com>",
+    "email": "<kaio.rocharibeiro@gmail.com>",
     "url": "https://github.com/kaiorr/bootcamp-gostack-desafios"
   },
   "husky": {
