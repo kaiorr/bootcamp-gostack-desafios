@@ -28,6 +28,8 @@
 
 ## :rocket: Sobre o desafio
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5a26ea0c73a4d34b7bc32369103418c)](https://app.codacy.com/manual/kaiorr/bootcamp-gostack-desafios?utm_source=github.com&utm_medium=referral&utm_content=kaiorr/bootcamp-gostack-desafios&utm_campaign=Badge_Grade_Settings)
+
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
 
 Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend no último desafio utilizando o Node.js.
